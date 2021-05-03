@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ac741de.chunk.css",
+    "main.js": "/static/js/main.62d8d3c9.chunk.js",
+    "main.js.map": "/static/js/main.62d8d3c9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e45d5dbe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e45d5dbe.js.map",
+    "static/js/2.e8a5fec1.chunk.js": "/static/js/2.e8a5fec1.chunk.js",
+    "static/js/2.e8a5fec1.chunk.js.map": "/static/js/2.e8a5fec1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3ac741de.chunk.css.map": "/static/css/main.3ac741de.chunk.css.map",
+    "static/js/2.e8a5fec1.chunk.js.LICENSE.txt": "/static/js/2.e8a5fec1.chunk.js.LICENSE.txt",
+    "static/media/ChimeWeb.css": "/static/media/bg.018aae67.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e45d5dbe.js",
+    "static/js/2.e8a5fec1.chunk.js",
+    "static/css/main.3ac741de.chunk.css",
+    "static/js/main.62d8d3c9.chunk.js"
+  ]
+}
